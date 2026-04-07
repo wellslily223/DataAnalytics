@@ -1,0 +1,40 @@
+Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+What is the least popular breakup food in the United States?
+What are popular breakup foods in other nations?
+
+Where can you find Google Trends search data? Provide the URL.
+https://trends.google.com/trending?geo=US
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+Jan 31 - Feb 28 2025: 100
+b) What is the lowest dip recorded?
+Nov 30 - Dec 31 2024: 65
+
+a) What is the highest peak recorded for searches using Hamburger? 
+April 30 - May 31 2024: 100
+What is the lowest dip?
+Nov 30 - Dec 31 2024: 68
+b) What happened to the line for Milkshake? 
+The line for milkshake became lower.
+What do the high and low look like now?
+(Jan 31 - Feb 28 2025: 34) - High
+(Nov 30 - Dec 31 2024: 22) - Low
+
+Why did the line for Milkshake change?
+I believe that the line for milkshake changed because it was a less popular search category during the selected time period.
+
+a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+As the line for hamburger hits a valley, the line for breakup smooths out. Other than that, I cannot think of any patterns. 
+b) How about between Breakup and Milkshake?
+During the time period of Nov 30 to Dec 31 2024, the data grows extremely close in numbers (23 for milkshake, 17 for breakup)
+
+What does all of this suggest about the reliability of the conclusions reached in the
+article?
+Based on the milkshake line's change, I would assume that the reliability of the article's conclusions are not very accurate. 
+
+a) What was the top state by interest for Milkshake?
+Delaware
+b) What was the top state by interest for Hamburger?
+South Dakota
