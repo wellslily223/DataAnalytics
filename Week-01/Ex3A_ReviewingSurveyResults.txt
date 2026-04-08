@@ -1,0 +1,89 @@
+1 What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+1. What conclusion can you reach about the responses to this question?
+I can reach the conclusion that every person who answered the survey values earliness and diligence.
+2. Is the default summary or visualization helpful? How could it be improved?
+For this question, a default summary is better than visualization due to the fact that it's a written response. One could portray the data with a word cloud, but that would be less descriptive. 
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Not applicable
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+The biggest challenge of finding trends in written responses is that you have to analyze word data, not number data. Sometimes, things are worded differently or described in a different way. 
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I would recommend rephrasing the question to; "What is your morning routine? What do you do to make sure that you are ready to log into class refreshed and early?"
+
+
+2 Do you have a second monitor connected to your computer?
+1. What conclusion can you reach about the responses to this question?
+There are more students with a second monitor than students without, although the data draws very close (13 - 12).
+2. Is the default summary or visualization helpful? How could it be improved?
+The default summary is better for this question because it shows that for this response, the students only had the answer of 'yes' or 'other' instead of no. If you only looked at the visualization, a viewer could assume that the survey was split between yes and no rather than yes and other.
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+The trickiest thing about analyzing these sets of data is that the 'other' responses are not a yes or no answer. One student reports that they plan on buying a second monitor later on - would they technically count as a yes?
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Not applicable
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I'd recommend adding a 'no' option instead of simply 'other'. 
+
+3 Do you have an external keyboard and mouse?
+1. What conclusion can you reach about the responses to this question?
+There are more students with an external mouse and keyboard than students without.
+2. Is the default summary or visualization helpful? How could it be improved?
+The visualization is more helpful for me due to how clearly it displays the data. When highlighted, the sections of the chart show the exact numbers, but also present a more general summary of the data.
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Something tricky about analyzing this data is the categorization of some answers. Similarly to survey question 2, one student says that they only have a keyboard, but can get a mouse. Would that count as a yes?
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Not applicable
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+In a future survey, I would provide the options for 'only a keyboard' or 'only a mouse' along with the yes and no options. 
+
+4 How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+1. What conclusion can you reach about the responses to this question?
+Most students choose to take notes with pen and paper rather than their computers.
+2. Is the default summary or visualization helpful? How could it be improved?
+For this, I personally found both to be helpful. I do enjoy the visualization, as I am a fan of graphs and charts, but knowing the exact numbers with the default summary is always useful. 
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+You can find those responses in the student survey excel file that was shared with us. There wasn't really a tricky aspect of analyzing this data; it seemed rather straightforward. 
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Not applicable
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I believe that this question is already rather well-phrased - though, I would add an option for 'both paper and computer". 
+
+5 What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+1. What conclusion can you reach about the responses to this question?
+A majority of students have extra questions about the course. 
+2. Is the default summary or visualization helpful? How could it be improved?
+The visual display of the latest responses is helpful for this question. It gives a clear insight into the specific questions that students have asked in this survey. 
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+Not applicable 
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided?
+Analyzing this data could be a bit challenging due to the variety of questions that students responded with. 
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey?
+I don't believe that I would rephrase this question in a different way. Letting your audience ask questions is a very important step in any course, job, or other social experience.
+
+
+6. Is there anything that surprised you about the survey responses?
+The amount of people that had questions about the course surprised me. I expected most questions about the data analytics course to be answered by now - though, there's no shame in having questions!
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to
+include in your morning routine, or any questions that you are also curious about?
+I'll be sure to include the habit of checking my emails and reviewing git bash essentials before class begins. 
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help
+in how you approach teaching this class?
+I would take the many questions that the students have and make sure that I am clear on them when instructing the course. I would also take the time to stress the importance of note-taking and preparation. 
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to
+make this survey anonymous? Why or why not? (If you can see both pros and cons,
+you may include both.)
+I believe that it was helpful to make this survey anonymous because some students can be shyer about their questions than others. A con of this anonymous survey would be that other students can't ask questions about their peers daily routines, but I do believe that remaining anonymous is for the greater good. 
