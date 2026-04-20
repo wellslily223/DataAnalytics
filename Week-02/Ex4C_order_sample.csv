@@ -1,0 +1,51 @@
+OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10248,VINET,5,"1996-07-04 00:00:00","1996-08-01 00:00:00","1996-07-16 00:00:00",3,32.3800,"Vins et alcools Chevalier","59 rue de l-Abbaye",Reims,NULL,51100,France
+10249,TOMSP,6,"1996-07-05 00:00:00","1996-08-16 00:00:00","1996-07-10 00:00:00",1,11.6100,"Toms Spezialitten","Luisenstr. 48",Mnster,NULL,44087,Germany
+10250,HANAR,4,"1996-07-08 00:00:00","1996-08-05 00:00:00","1996-07-12 00:00:00",2,65.8300,"Hanari Carnes","Rua do Pao, 67","Rio de Janeiro",RJ,05454-876,Brazil
+10251,VICTE,3,"1996-07-08 00:00:00","1996-08-05 00:00:00","1996-07-15 00:00:00",1,41.3400,"Victuailles en stock","2, rue du Commerce",Lyon,NULL,69004,France
+10252,SUPRD,4,"1996-07-09 00:00:00","1996-08-06 00:00:00","1996-07-11 00:00:00",2,51.3000,"Suprmes dlices","Boulevard Tirou, 255",Charleroi,NULL,B-6000,Belgium
+10253,HANAR,3,"1996-07-10 00:00:00","1996-07-24 00:00:00","1996-07-16 00:00:00",2,58.1700,"Hanari Carnes","Rua do Pao, 67","Rio de Janeiro",RJ,05454-876,Brazil
+10254,CHOPS,5,"1996-07-11 00:00:00","1996-08-08 00:00:00","1996-07-23 00:00:00",2,22.9800,"Chop-suey Chinese","Hauptstr. 31",Bern,NULL,3012,Switzerland
+10255,RICSU,9,"1996-07-12 00:00:00","1996-08-09 00:00:00","1996-07-15 00:00:00",3,148.3300,"Richter Supermarkt","Starenweg 5",Genve,NULL,1204,Switzerland
+10256,WELLI,3,"1996-07-15 00:00:00","1996-08-12 00:00:00","1996-07-17 00:00:00",2,13.9700,"Wellington Importadora","Rua do Mercado, 12",Resende,SP,08737-363,Brazil
+10257,HILAA,4,"1996-07-16 00:00:00","1996-08-13 00:00:00","1996-07-22 00:00:00",3,81.9100,HILARION-Abastos,"Carrera 22 con Ave. Carlos Soublette #8-35","San Cristbal",Tchira,5022,Venezuela
+10258,ERNSH,1,"1996-07-17 00:00:00","1996-08-14 00:00:00","1996-07-23 00:00:00",1,140.5100,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10259,CENTC,4,"1996-07-18 00:00:00","1996-08-15 00:00:00","1996-07-25 00:00:00",3,3.2500,"Centro comercial Moctezuma","Sierras de Granada 9993","Mxico D.F.",NULL,5022,Mexico
+10260,OTTIK,4,"1996-07-19 00:00:00","1996-08-16 00:00:00","1996-07-29 00:00:00",1,55.0900,"Ottilies Kseladen","Mehrheimerstr. 369",Kln,NULL,50739,Germany
+10261,QUEDE,4,"1996-07-19 00:00:00","1996-08-16 00:00:00","1996-07-30 00:00:00",2,3.0500,"Que Delcia","Rua da Panificadora, 12","Rio de Janeiro",RJ,02389-673,Brazil
+10262,RATTC,8,"1996-07-22 00:00:00","1996-08-19 00:00:00","1996-07-25 00:00:00",3,48.2900,"Rattlesnake Canyon Grocery","2817 Milton Dr.",Albuquerque,NM,87110,USA
+10263,ERNSH,9,"1996-07-23 00:00:00","1996-08-20 00:00:00","1996-07-31 00:00:00",3,146.0600,"Ernst Handel","Kirchgasse 6",Graz,NULL,8010,Austria
+10264,FOLKO,6,"1996-07-24 00:00:00","1996-08-21 00:00:00","1996-08-23 00:00:00",3,3.6700,"Folk och f HB","kergatan 24",Brcke,NULL,"S-844 67",Sweden
+10265,BLONP,2,"1996-07-25 00:00:00","1996-08-22 00:00:00","1996-08-12 00:00:00",1,55.2800,"Blondel pre et fils","24, place Klber",Strasbourg,NULL,67000,France
+10266,WARTH,3,"1996-07-26 00:00:00","1996-09-06 00:00:00","1996-07-31 00:00:00",3,25.7300,"Wartian Herkku","Torikatu 38",Oulu,NULL,90110,Finland
+10267,FRANK,4,"1996-07-29 00:00:00","1996-08-26 00:00:00","1996-08-06 00:00:00",1,208.5800,Frankenversand,"Berliner Platz 43",Mnchen,NULL,80805,Germany
+10268,GROSR,8,"1996-07-30 00:00:00","1996-08-27 00:00:00","1996-08-02 00:00:00",3,66.2900,GROSELLA-Restaurante,"5 Ave. Los Palos Grandes",Caracas,DF,1081,Venezuela
+10269,WHITC,5,"1996-07-31 00:00:00","1996-08-14 00:00:00","1996-08-09 00:00:00",1,4.5600,"White Clover Markets","1029 - 12th Ave. S.",Seattle,WA,98124,USA
+10270,WARTH,1,"1996-08-01 00:00:00","1996-08-29 00:00:00","1996-08-02 00:00:00",1,136.5400,"Wartian Herkku","Torikatu 38",Oulu,NULL,90110,Finland
+10271,SPLIR,6,"1996-08-01 00:00:00","1996-08-29 00:00:00","1996-08-30 00:00:00",2,4.5400,"Split Rail Beer & Ale","P.O. Box 555",Lander,WY,82520,USA
+10272,RATTC,6,"1996-08-02 00:00:00","1996-08-30 00:00:00","1996-08-06 00:00:00",2,98.0300,"Rattlesnake Canyon Grocery","2817 Milton Dr.",Albuquerque,NM,87110,USA
+10273,QUICK,3,"1996-08-05 00:00:00","1996-09-02 00:00:00","1996-08-12 00:00:00",3,76.0700,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10274,VINET,6,"1996-08-06 00:00:00","1996-09-03 00:00:00","1996-08-16 00:00:00",1,6.0100,"Vins et alcools Chevalier","59 rue de l-Abbaye",Reims,NULL,51100,France
+10275,MAGAA,1,"1996-08-07 00:00:00","1996-09-04 00:00:00","1996-08-09 00:00:00",1,26.9300,"Magazzini Alimentari Riuniti","Via Ludovico il Moro 22",Bergamo,NULL,24100,Italy
+10276,TORTU,8,"1996-08-08 00:00:00","1996-08-22 00:00:00","1996-08-14 00:00:00",3,13.8400,"Tortuga Restaurante","Avda. Azteca 123","Mxico D.F.",NULL,5033,Mexico
+10277,MORGK,2,"1996-08-09 00:00:00","1996-09-06 00:00:00","1996-08-13 00:00:00",3,125.7700,"Morgenstern Gesundkost","Heerstr. 22",Leipzig,NULL,4179,Germany
+10278,BERGS,8,"1996-08-12 00:00:00","1996-09-09 00:00:00","1996-08-16 00:00:00",2,92.6900,"Berglunds snabbkp","Berguvsvgen 8",Lule,NULL,"S-958 22",Sweden
+10279,LEHMS,8,"1996-08-13 00:00:00","1996-09-10 00:00:00","1996-08-16 00:00:00",2,25.8300,"Lehmanns Marktstand","Magazinweg 7","Frankfurt a.M.",NULL,60528,Germany
+10280,BERGS,2,"1996-08-14 00:00:00","1996-09-11 00:00:00","1996-09-12 00:00:00",1,8.9800,"Berglunds snabbkp","Berguvsvgen 8",Lule,NULL,"S-958 22",Sweden
+10281,ROMEY,4,"1996-08-14 00:00:00","1996-08-28 00:00:00","1996-08-21 00:00:00",1,2.9400,"Romero y tomillo","Gran Va, 1",Madrid,NULL,28001,Spain
+10282,ROMEY,4,"1996-08-15 00:00:00","1996-09-12 00:00:00","1996-08-21 00:00:00",1,12.6900,"Romero y tomillo","Gran Va, 1",Madrid,NULL,28001,Spain
+10283,LILAS,3,"1996-08-16 00:00:00","1996-09-13 00:00:00","1996-08-23 00:00:00",3,84.8100,LILA-Supermercado,"Carrera 52 con Ave. Bolvar #65-98 Llano Largo",Barquisimeto,Lara,3508,Venezuela
+10284,LEHMS,4,"1996-08-19 00:00:00","1996-09-16 00:00:00","1996-08-27 00:00:00",1,76.5600,"Lehmanns Marktstand","Magazinweg 7","Frankfurt a.M.",NULL,60528,Germany
+10285,QUICK,1,"1996-08-20 00:00:00","1996-09-17 00:00:00","1996-08-26 00:00:00",2,76.8300,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10286,QUICK,8,"1996-08-21 00:00:00","1996-09-18 00:00:00","1996-08-30 00:00:00",3,229.2400,QUICK-Stop,"Taucherstrae 10",Cunewalde,NULL,1307,Germany
+10287,RICAR,8,"1996-08-22 00:00:00","1996-09-19 00:00:00","1996-08-28 00:00:00",3,12.7600,"Ricardo Adocicados","Av. Copacabana, 267","Rio de Janeiro",RJ,02389-890,Brazil
+10288,REGGC,4,"1996-08-23 00:00:00","1996-09-20 00:00:00","1996-09-03 00:00:00",1,7.4500,"Reggiani Caseifici","Strada Provinciale 124","Reggio Emilia",NULL,42100,Italy
+10289,BSBEV,7,"1996-08-26 00:00:00","1996-09-23 00:00:00","1996-08-28 00:00:00",3,22.7700,"B-s Beverages","Fauntleroy Circus",London,NULL,"EC2 5NT",UK
+10290,COMMI,8,"1996-08-27 00:00:00","1996-09-24 00:00:00","1996-09-03 00:00:00",1,79.7000,"Comrcio Mineiro","Av. dos Lusadas, 23","Sao Paulo",SP,05432-043,Brazil
+10291,QUEDE,6,"1996-08-27 00:00:00","1996-09-24 00:00:00","1996-09-04 00:00:00",2,6.4000,"Que Delcia","Rua da Panificadora, 12","Rio de Janeiro",RJ,02389-673,Brazil
+10292,TRADH,1,"1996-08-28 00:00:00","1996-09-25 00:00:00","1996-09-02 00:00:00",2,1.3500,"Tradiao Hipermercados","Av. Ins de Castro, 414","Sao Paulo",SP,05634-030,Brazil
+10293,TORTU,1,"1996-08-29 00:00:00","1996-09-26 00:00:00","1996-09-11 00:00:00",3,21.1800,"Tortuga Restaurante","Avda. Azteca 123","Mxico D.F.",NULL,5033,Mexico
+10294,RATTC,4,"1996-08-30 00:00:00","1996-09-27 00:00:00","1996-09-05 00:00:00",2,147.2600,"Rattlesnake Canyon Grocery","2817 Milton Dr.",Albuquerque,NM,87110,USA
+10295,VINET,2,"1996-09-02 00:00:00","1996-09-30 00:00:00","1996-09-10 00:00:00",2,1.1500,"Vins et alcools Chevalier","59 rue de l-Abbaye",Reims,NULL,51100,France
+10296,LILAS,6,"1996-09-03 00:00:00","1996-10-01 00:00:00","1996-09-11 00:00:00",1,0.1200,LILA-Supermercado,"Carrera 52 con Ave. Bolvar #65-98 Llano Largo",Barquisimeto,Lara,3508,Venezuela
+10297,BLONP,5,"1996-09-04 00:00:00","1996-10-16 00:00:00","1996-09-10 00:00:00",2,5.7400,"Blondel pre et fils","24, place Klber",Strasbourg,NULL,67000,France
