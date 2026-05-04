@@ -1,0 +1,33 @@
+Data categories:
+- files of dog owners
+- phone number of owner
+- pricing/payments
+- payment methods
+- breeds 
+- locations
+- health concern
+- dog age
+- dog name
+- picture of the dog
+- weight/size of dog
+- scheduling
+- time frame/date of walk
+- walker name
+- walker phone number/emergency contact
+- owner address
+- previous walks
+- gps tracking
+
+Who is the end user?? Lana
+What should the end user be able to do?? Keep track of all of the most important data from her business
+
+What should be the main entities in your database (which will translate into tables)?
+Aim for at least three, but not more than five, to keep things from getting overly
+complicated. 
+What attributes (column names) belong to each of those entities? It may be helpful
+to consider an example of a single record belonging to that entity – what are the
+pieces of information that the record should include?
+What entities will have relationships to each other? That is, what information will
+need to be reassembled together when data is retrieved from the database?
+Can you identify any possible many-to-many relationships between your tables
+that will need to a resolving table?
