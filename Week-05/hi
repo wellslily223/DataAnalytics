@@ -1,0 +1,14 @@
+# Exploring arithmetic operators
+2 + 3 # Add Two Numbers
+
+3 - 1
+
+2 * 5
+
+10 / 5
+
+10 // 3
+
+10 % 2
+
+5 ** 2
