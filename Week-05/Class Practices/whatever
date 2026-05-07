@@ -1,0 +1,14 @@
+first_name1 = "Kasiah"
+last_name1 = "Antonio"
+
+first_name2 = "Johnathan"
+last_name2 = "Lopez"
+
+
+first_name3 = "Leon"
+last_name3 = "Poulson"
+
+print(first_name1 + " " + last_name1)
+print(first_name2 + " " + last_name2)
+print(first_name3 + " " + last_name3)
+
