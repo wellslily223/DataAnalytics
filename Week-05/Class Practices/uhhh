@@ -1,0 +1,12 @@
+state1 = "Wyoming"
+state2 = "Pennsylvania"
+state3 = "New York"
+state4 = "Delaware"
+state5 = "Florida"
+
+state_list = [state1, state2, state3, state4, state5]
+
+print(len(state_list))
+
+state_list.discard("Florida")
+print(state_list)
