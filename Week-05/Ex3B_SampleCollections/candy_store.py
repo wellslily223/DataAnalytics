@@ -5,8 +5,8 @@ candies1 = tuple2[0] + " " + tuple1[0]
 candies2 = tuple2[1] + " " + tuple1[1]
 candies3 = tuple2[2] + " " + tuple1[2]
 
-candies = list(candies1 + " " + candies2 + " " + candies3)
-candies = str(candies1 + " " + candies2 + " " + candies3)
+candies = list(candies1 + ", " + candies2 + ", " + candies3)
+candies = str(candies1 + ", " + candies2 + ", " + candies3)
 
 
 print("Today's candy options include: " + candies)
